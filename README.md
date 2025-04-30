@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @DragomirBozoki
-- 👀 I’m interested in Python, C and Java working with AI or Automation...
-- 🌱 I’m currently working with Python ...
-- 💞️ Faculty of Technical Sciences Novi Sad - Machine learning master
-- 📫 How to reach me linkedln: DragomirBozoki  ...
+- 👋 Hi, I’m @DragomirBozoki  
+- 🧠 I'm passionate about AI, automation, and building things from scratch.  
+- 🚀 Currently working on AI projects. I love startup culture and innovation.  
+- 💻 I work mostly in Python, but also use JavaScript, Julia, Matlab and C when needed.  
+- 📚 Master’s student in Machine Learning @ Faculty of Technical Sciences, Novi Sad.  
+- 🔍 Interests: Deep Learning, Computer Vision, NLP, LLMs, and smart assistant systems.  
+- 📫 Reach me on LinkedIn: [DragomirBozoki] (https://www.linkedin.com/in/dragomirbozoki)
+
 
 <!---
 DragomirBozoki/DragomirBozoki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
