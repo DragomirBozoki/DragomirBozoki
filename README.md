@@ -5,6 +5,7 @@
 - 📚 Master’s student in Machine Learning @ Faculty of Technical Sciences, Novi Sad.  
 - 🔍 Interests: Deep Learning, Computer Vision, NLP, LLMs, and smart assistant systems.  
 - 📫 Reach me on LinkedIn: [DragomirBozoki] (https://www.linkedin.com/in/dragomirbozoki)
+- 📫  Visit my [TechBlog] (https://mindloopblog.blogspot.com/)
 
 
 <!---
